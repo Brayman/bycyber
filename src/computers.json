@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "name": "Multimedia 2400G",
+        "img": "https://www.ttn.by/pics/items/kompyuter-ttn-multimedia-2400g.jpg",
+        "price": 927.97
+    },
+    {
+        "id": 1,
+        "name": "Multimedia 2200G",
+        "img": "https://www.ttn.by/pics/items/kompyuter-ttn-multimedia-2200g.jpg",
+        "price": 819.86
+    },
+    {
+        "id": 2,
+        "name": "Gaming I8703k",
+        "img": "https://www.ttn.by/pics/items/kompyuter-ttn-gaming-i8703k.jpg",
+        "price": 4139.58
+    },
+    {
+        "id": 3,
+        "name": "Gaming I8702k",
+        "img": "https://www.ttn.by/pics/items/kompyuter-ttn-gaming-i8702k_j.jpg",
+        "price": 3533.55
+    },
+    {
+        "id": 4,
+        "name": "Gaming I8702",
+        "img": "https://www.ttn.by/pics/items/kompyuter-ttn-gaming-i8702_j.jpg",
+        "price": 3545.79
+    },
+    {
+        "id": 5,
+        "name": "Gaming I8701k",
+        "img": "https://www.ttn.by/pics/items/kompyuter-ttn-gaming-i8701k_k.jpg",
+        "price": 3144.87
+    }
+]
